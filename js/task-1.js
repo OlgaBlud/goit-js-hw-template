@@ -14,8 +14,8 @@ function calculateTotal(number) {
 /* console.log('(1=>1)', calculateTotal(1));
 console.log('(3=>6)', calculateTotal(3));
 console.log('(0=>0)', calculateTotal(0));
-console.log('(18=>171), calculateTotal(18));
-console.log('(24=>300), calculateTotal(24)); */
+console.log('(18=>171)', calculateTotal(18));
+console.log('(24=>300)', calculateTotal(24)); */
 
 console.log('______Loop for______');
 
